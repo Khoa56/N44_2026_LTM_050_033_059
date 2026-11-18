@@ -8,7 +8,7 @@ Trình biên dịch C++: g++ (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0
 CMake              : cmake version 3.22.1
 Phiên bản PX4 SITL : v1.14.3
 Trình mô phỏng     : jMAVSim (Java openjdk version "11.0.32.1" 2026-08-18)
-Phiên bản MAVSDK   : 2.12.0
+Phiên bản MAVSDK   : 3.17.5
 Cổng điều khiển    : udp://:14540 (Sơn - Điều khiển kịch bản bay)
-Cổng giám sát      : udp://:14550 (Khoa - Giám sát trạng thái UAV)
+Cổng giám sát      : udp://:14600 (Khoa - Giám sát trạng thái UAV)
 ============================================================
