@@ -1,0 +1,13 @@
+/build/
+/build-*/
+/.deps/
+/mavsdk-v3/
+/mavsdk-windows-x64.zip
+/esp32-px4-github.zip
+**/__pycache__/
+*.exe
+*.log
+/monitor-v3.csv
+/flight-test-v3.csv
+/test-*.csv
+/run-udp*/

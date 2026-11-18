@@ -1,0 +1,7 @@
+run_index,start_time,end_time,duration_s,max_altitude_m,waypoints_completed,result,note
+1,2026-11-08 14:08:02,2026-11-08 14:09:20,78,10.02,4/4,PASS,"Hoàn thành kịch bản bay an toàn"
+2,2026-11-08 14:09:25,2026-11-08 14:10:41,76,10.01,4/4,PASS,"Hoàn thành kịch bản bay an toàn"
+3,2026-11-08 14:10:46,2026-11-08 14:12:02,76,10.01,4/4,PASS,"Hoàn thành kịch bản bay an toàn"
+4,2026-11-08 14:12:07,2026-11-08 14:13:25,78,10.01,4/4,PASS,"Hoàn thành kịch bản bay an toàn"
+5,2026-11-08 14:13:30,2026-11-08 14:14:46,76,10.01,4/4,PASS,"Hoàn thành kịch bản bay an toàn"
+1,2026-11-08 14:51:37,2026-11-08 14:52:59,82,10.01,4/4,PASS,"Hoàn thành kịch bản bay an toàn"

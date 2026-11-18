@@ -1,0 +1,14 @@
+============================================================
+ THÔNG TIN PHIÊN BẢN MÔI TRƯỜNG MÔ PHỎNG UAV (KHỐI 2 - SƠN)
+============================================================
+Thời gian ghi nhận : 2026-11-08 11:41:25
+Hệ điều hành WSL2  : Ubuntu 22.04.5 LTS
+Kernel Linux       : 6.18.54.1-microsoft-standard-WSL2
+Trình biên dịch C++: g++ (Ubuntu 11.4.0-1ubuntu1~22.04.3) 11.4.0
+CMake              : cmake version 3.22.1
+Phiên bản PX4 SITL : v1.14.3
+Trình mô phỏng     : jMAVSim (Java openjdk version "11.0.32.1" 2026-08-18)
+Phiên bản MAVSDK   : 2.12.0
+Cổng điều khiển    : udp://:14540 (Sơn - Điều khiển kịch bản bay)
+Cổng giám sát      : udp://:14550 (Khoa - Giám sát trạng thái UAV)
+============================================================

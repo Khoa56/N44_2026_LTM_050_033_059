@@ -1,0 +1,22 @@
+{
+  "version": 1,
+  "author": "Minh Tuấn Phạm",
+  "editor": "wokwi",
+  "parts": [
+    { "type": "board-esp32-c3-devkitm-1", "id": "esp", "top": -29.1, "left": 44.22, "attrs": {} },
+    { "type": "board-ssd1306", "id": "oled", "top": -20, "left": 176, "attrs": {} },
+    { "type": "wokwi-dht22", "id": "dht", "top": 5, "left": -100, "attrs": {} }
+  ],
+  "connections": [
+    [ "esp:TX", "$serialMonitor:RX", "", [] ],
+    [ "esp:RX", "$serialMonitor:TX", "", [] ],
+    [ "dht:VCC", "esp:3V3", "red", [] ],
+    [ "dht:GND", "esp:GND.5", "black", [] ],
+    [ "dht:SDA", "esp:6", "green", [] ],
+    [ "oled:VCC", "esp:3V3", "red", [] ],
+    [ "oled:GND", "esp:GND.10", "black", [] ],
+    [ "oled:SDA", "esp:4", "green", [] ],
+    [ "oled:SCL", "esp:5", "blue", [] ]
+  ],
+  "dependencies": {}
+}

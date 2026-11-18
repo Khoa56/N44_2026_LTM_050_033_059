@@ -1,0 +1,7 @@
+Timestamp_UTC,Record_Type,Seq_Num,Temperature_C,Humidity_pctRH,Sensor_Valid,Sensor_Status,UAV_Connected,UAV_Link,Flight_Mode,In_Air,Latitude_deg,Longitude_deg,Altitude_m,UAV_Telemetry_Stale,Sensor_Session,Sensor_Uptime_ms
+2026-11-18T03:47:28.335Z,STATUS,N/A,N/A,N/A,N/A,WAITING,false,WAITING,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2026-11-18T03:47:28.731Z,UDP,4294967294,28,60,1,FRESH,false,WAITING,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2026-11-18T03:47:28.832Z,UDP,0,29,61,1,FRESH,false,WAITING,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2026-11-18T03:47:28.932Z,UDP_LATE,4294967295,28.5,60.5,1,FRESH,false,WAITING,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2026-11-18T03:47:29.133Z,UDP,1,N/A,N/A,0,INVALID,false,WAITING,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
+2026-11-18T03:47:29.234Z,UDP,2,0,0,1,FRESH,false,WAITING,N/A,N/A,N/A,N/A,N/A,N/A,N/A,N/A
