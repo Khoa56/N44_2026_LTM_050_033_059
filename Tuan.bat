@@ -45,7 +45,7 @@ start "" notepad.exe "%CD%\include\network.local.h"
 exit /b %errorlevel%
 
 :check_config
-findstr /l /c:"TEN_WIFI_2_4_GHZ" /c:"MAT_KHAU_WIFI" /c:"DIA_CHI_IPV4_MAY_KHOA" "include\network.local.h" >nul
+findstr /l /c:"TEN_WIFI_2_4_GHZ" /c:"MAT_KHAU_WIFI" "include\network.local.h" >nul
 if errorlevel 2 goto failed
 if not errorlevel 1 goto incomplete_config
 echo Nap ESP32-C3, sau do mo Serial 115200.
