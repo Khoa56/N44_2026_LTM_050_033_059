@@ -88,7 +88,7 @@ px4_bin_dir="$px4_build_dir/bin"
 build_dir="${ESP32_PX4_BUILD_DIR:-build}"
 
 if [[ ! -f "$px4_dir/Makefile" ]]; then
-    echo "Chưa tìm thấy PX4 tại $px4_dir. Chạy Son.bat --setup trước." >&2
+    echo "Chưa tìm thấy PX4 tại $px4_dir. Chạy uav.bat --setup trước." >&2
     exit 1
 fi
 
